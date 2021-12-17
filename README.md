@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Animesh Tripathi
-- 👀 I’m interested in Business Intelligence, Data Analytics, Cloud Computing, and Product Management
-- 📫 I can be reached via Email: atripathi12@hotmail.com or Mobile: +1(682)313-5284
+- 📫 I can be reached at Email: animesh.tripathi@hotmail.com or Mobile: +1(682)313-5284
 
 <!---
 animeshtripathi1294/animeshtripathi1294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
