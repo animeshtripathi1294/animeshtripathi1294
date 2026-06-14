@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Animesh Tripathi
-- 📫 I can be reached at Email: animesh.tripathi@hotmail.com or Mobile: +1(682)313-5284
+- 📫 I can be reached at Email: animesh.tripathi@hotmail.com
 
 <!---
 animeshtripathi1294/animeshtripathi1294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
